@@ -1,0 +1,19 @@
+{
+    "name": "bjyblog",
+    "description": "the bjyblog blog",
+    "type": "blog",
+    "keywords": ["bjyblog","thinkphp","blog"],
+    "homepage": "http://yangzhichao.com",
+    "license": "Apache2",
+    "authors": [
+        {
+            "name": "yangzhichao",
+            "email": "yangzhichao@yangzhichao.com"
+        }
+    ],
+    "require": {
+        "php": ">=5.3.0"
+    },
+    "minimum-stability": "dev"
+}
+
